@@ -1,4 +1,4 @@
-# NeptuNet: GTFS to Graph Converter & Traffic Digital Twin
+# GTFS to Graph Converter & Traffic Digital Twin
 
 ![Screenshot](/assets/screenshot.png)
 
